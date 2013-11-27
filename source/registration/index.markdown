@@ -1,5 +1,6 @@
 ---
 layout: page
+navbar: Registration
 title: "registration"
 date: 2013-11-27 17:01
 comments: true
