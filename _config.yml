@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://MIT6S194-Spring14.github.io
+title: MIT 6.S194 Open Source Software Project Lab 
+subtitle: part of the Open Academy Initiative 
+author: The 6.S194 Team 
 simple_search: http://google.com/search
 description:
 
