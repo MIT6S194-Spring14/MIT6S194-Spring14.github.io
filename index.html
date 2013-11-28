@@ -89,7 +89,7 @@
       
         <li class="previous disabled"><a href="#">&larr;&nbsp;Older</a></li>
       
-      <li><a href="/blog/archives">Blog Archives</a></li>
+      <li><a href="/blog/archives">Announcement Archives</a></li>
       
         <li class="next disabled"><a href="#">Newer&nbsp;&rarr;</a></li>
       
@@ -101,7 +101,7 @@
       
         <section class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title">Recent Posts</h3>
+    <h3 class="panel-title">Recent Announcements</h3>
   </div>
   
   <div id="recent_posts" class="list-group">
@@ -139,19 +139,26 @@
 
 
 
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id; js.async = true;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 
   <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
     })();
   </script>
+
+
 
 
 
