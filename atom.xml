@@ -4,7 +4,7 @@
   <title><![CDATA[MIT 6.S194 Open Source Software Project Lab]]></title>
   <link href="http://MIT6S194-Spring14.github.io/atom.xml" rel="self"/>
   <link href="http://MIT6S194-Spring14.github.io/"/>
-  <updated>2013-12-04T19:24:46-05:00</updated>
+  <updated>2013-12-05T13:02:14-05:00</updated>
   <id>http://MIT6S194-Spring14.github.io/</id>
   <author>
     <name><![CDATA[The 6.S194 Team]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Information Session - Wednesday 12/11, 4pm 34-304]]></title>
+    <link href="http://MIT6S194-Spring14.github.io/blog/2013/12/05/information-session/"/>
+    <updated>2013-12-05T12:18:18-05:00</updated>
+    <id>http://MIT6S194-Spring14.github.io/blog/2013/12/05/information-session</id>
+    <content type="html"><![CDATA[<h3>Have any queries about the class?</h3>
+
+<p>The 6.S194 team is holding an information session about the course this coming Wednesday 12/11, 4pm at 34-304.</p>
+
+<p><img class="center" src="https://dl.dropboxusercontent.com/u/40369965/6s194/images/2014%20Spring%20Poster%20Omnigraffle.png"></p>
+
+<p>If you cannot attend the session, feel free to direct any queries to <strong><em>josmasflores</em></strong> at gmail.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pre-Registration is now Open!]]></title>
