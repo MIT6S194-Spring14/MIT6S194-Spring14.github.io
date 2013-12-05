@@ -6,7 +6,7 @@ url: http://MIT6S194-Spring14.github.io
 title: MIT 6.S194 Open Source Software Project Lab 
 subtitle: part of the Open Academy Initiative 
 author: The 6.S194 Team 
-simple_search: http://google.com/search
+# simple_search: http://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
