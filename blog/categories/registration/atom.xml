@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[MIT 6.S194 Open Source Software Project Lab]]></title>
-  <link href="http://MIT6S194-Spring14.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: registration | MIT 6.S194 Open Source Software Project Lab]]></title>
+  <link href="http://MIT6S194-Spring14.github.io/blog/categories/registration/atom.xml" rel="self"/>
   <link href="http://MIT6S194-Spring14.github.io/"/>
   <updated>2013-12-04T19:21:44-05:00</updated>
   <id>http://MIT6S194-Spring14.github.io/</id>
@@ -30,11 +30,11 @@
 
 <h3>How can I register?</h3>
 
-<p>Please use this <a href="https://docs.google.com/forms/d/1EORZ_QRilHaMr7jiLFRdOtdzZaEdxYwfyLgFqX2hLmc/viewform">form</a> to express your interest in the course. More information can be found in the <a href="http://MIT6S194-Spring14.github.io/registration">registration page</a>.</p>
+<p>Please use this <a href="https://docs.google.com/forms/d/1EORZ_QRilHaMr7jiLFRdOtdzZaEdxYwfyLgFqX2hLmc/viewform">form</a> to express your interest in the course. More information can be found in the <a href="/registration">registration page</a>.</p>
 
 <h3>Which projects can I join?</h3>
 
-<p>Have a look at the <a href="http://MIT6S194-Spring14.github.io/projects">projects</a> page for more details.</p>
+<p>Have a look at the <a href="/projects">projects</a> page for more details.</p>
 
 <h3>Queries?</h3>
 

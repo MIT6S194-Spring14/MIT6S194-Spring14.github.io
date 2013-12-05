@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://MIT6S194-Spring14.github.io/blog/2013/12/04/pre-registration-is-now-open/
+        </loc>
+        <lastmod>2013-12-04T19:21:43-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://MIT6S194-Spring14.github.io/assets/bootstrap/about.html</loc>
         <lastmod>2013-11-27T16:49:45-05:00</lastmod>
     </url>
@@ -22,7 +28,7 @@
     </url>
     <url>
         <loc>http://MIT6S194-Spring14.github.io/assets/bootstrap/</loc>
-        <lastmod>2013-11-27T16:49:45-05:00</lastmod>
+        <lastmod>2013-12-04T19:21:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://MIT6S194-Spring14.github.io/assets/bootstrap/javascript.html</loc>
@@ -30,11 +36,11 @@
     </url>
     <url>
         <loc>http://MIT6S194-Spring14.github.io/blog/archives/</loc>
-        <lastmod>2013-11-27T19:23:41-05:00</lastmod>
+        <lastmod>2013-12-04T19:21:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://MIT6S194-Spring14.github.io/</loc>
-        <lastmod>2013-11-27T19:23:03-05:00</lastmod>
+        <lastmod>2013-12-04T19:21:43-05:00</lastmod>
     </url>
     <url>
         <loc>http://MIT6S194-Spring14.github.io/projects/</loc>
