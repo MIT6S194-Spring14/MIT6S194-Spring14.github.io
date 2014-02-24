@@ -13,7 +13,7 @@ Office Hours
 
 Luke Faraone: Monday 6:15pm-7:15pm (Outside 32-261)
 
-José Dominguez: Wednesday 11-1am.
+José Dominguez: Monday 2-4pm (Outside 32/261 - find me in 32-392)
 
 Week Feb 4-6
 ============
@@ -129,6 +129,17 @@ teams of Thursday).
 Week Feb 25-27
 ==============
 
+Description of tasks coming soon.
+
+Tuesday : TDD - BDD through Katas
+---------------------------------
+
+Thursday : TDD - BDD through Katas
+----------------------------------
+
+Week March 4-6
+==============
+
 Definition of Design Studio coming soon as a page in the site.
 
 Tuesday : Design Studio
@@ -141,30 +152,9 @@ Thursday : Design Studio
 
 Teams: TBD
 
-Homework
---------
-
-Add due date and homework
-
-Week March 4-6
-==============
-
-Description of tasks coming soon.
-
-Tuesday : TDD - BDD through Katas
----------------------------------
-
-Thursday : TDD - BDD through Katas
-----------------------------------
-
-Homework
---------
-
-Add due date and homework
 
 Reading for next week
 ---------------------
-
 creative thinking in kindergarten, Resnick.
 [http://web.media.mit.edu/\~mres/papers/kindergarten-learning-approach.pdf](http://web.media.mit.edu/~mres/papers/kindergarten-learning-approach.pdf)
 
@@ -292,10 +282,6 @@ Week April 29-1
 
 12.2 : SkillShare session with a focus to wrapping up projects
 
-Homework
---------
-
-Add due date and homework
 
 Reading for next week
 ---------------------
@@ -311,17 +297,4 @@ Week May 13 15
 
 Wrapping up projects with mentors, and reports
 ----------------------------------------------
-
-General ideas
-
-Design thinking - empathizing \<--- workshop for prototyping: create
-(different) groups and make them prototype something real fast.
-
-Connect design thinking with CS principles.
-
-Software craftsmanship - Zack
-
-Code for good: Code for America (Boston brigade and leo?) What is that
-quantifying stuff that Ted did?
-
 
