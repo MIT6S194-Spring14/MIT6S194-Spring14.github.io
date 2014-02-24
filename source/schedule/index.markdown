@@ -11,7 +11,7 @@ footer: true
 Office Hours
 ===========
 
-Luke Faraone: Monday 6:15pm-7:15pm, Tuesday 6:45pm-7:45pm (location TBD; email to coordinate)
+Luke Faraone: Monday 6:15pm-7:15pm (Outside 32-261)
 
 José Dominguez: Wednesday 11-1am.
 
